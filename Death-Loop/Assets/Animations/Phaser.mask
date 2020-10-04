@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Phaser
+  m_Mask: 00000000000000000000000000000000000000000000000001000000000000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Hip
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Head
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.L
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.L/Elbow.L
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.L/Elbow.L/Wrist.L
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.L/Elbow.L/Wrist.L/Wrist.L_end
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.R/Elbow.R
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.R/Elbow.R/Wrist.R
+    m_Weight: 1
+  - m_Path: Armature/Hip/Spine/Shoulder.R/Elbow.R/Wrist.R/Wrist.R_end
+    m_Weight: 1
+  - m_Path: Armature/Leg.L
+    m_Weight: 1
+  - m_Path: Armature/Leg.L/Knee.L
+    m_Weight: 1
+  - m_Path: Armature/Leg.L/Knee.L/Foot.L
+    m_Weight: 1
+  - m_Path: Armature/Leg.L/Knee.L/Foot.L/Foot.L_end
+    m_Weight: 1
+  - m_Path: Armature/Leg.R
+    m_Weight: 1
+  - m_Path: Armature/Leg.R/Knee.R
+    m_Weight: 1
+  - m_Path: Armature/Leg.R/Knee.R/Foot.R
+    m_Weight: 1
+  - m_Path: Armature/Leg.R/Knee.R/Foot.R/Foot.R_end
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Phaser
+    m_Weight: 1
